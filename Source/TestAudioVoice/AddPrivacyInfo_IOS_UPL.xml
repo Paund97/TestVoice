@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <init>
+        <log text="In need of a PrivacyInfo.xcprivacy? No worries, I got you..."/>
+        <!-- PluginDir is the folder where this file is... weird name, but hey, I don't make the rules! -->
+        <copyFile src="$S(PluginDir)/../../Build/IOS/TheBirdersInfo.xcprivacy" dst="$S(BuildDir)/TheBirdersInfo.xcprivacy" />
+    </init>
+</root>

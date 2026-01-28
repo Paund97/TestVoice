@@ -27,7 +27,7 @@
 		},
 		{
 			"Name": "RuntimeSpeechRecognizer",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2b33311abdb048819664a6cfe0bbd90d"
 		},
 		{
